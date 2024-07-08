@@ -1,0 +1,85 @@
+.whole{
+    position:relative;
+    height:700px;
+    width:800px;
+    border:3px solid blue;
+}
+h3{
+    color: red;
+    position: absolute;
+    top:325px;
+    left:350px;
+}
+.square1{
+        border:3px solid red;
+        height:100px;
+        width:100px;
+        position: absolute;
+        top:0;
+        left:0;
+
+}
+.square2{
+    border:3px solid red;
+    height:100px;
+    width:100px;
+    position: absolute;
+    top:0;
+    right:0;
+
+}
+.square3{
+    border:3px solid red;
+    height:100px;
+    width:100px;
+    position: absolute;
+    bottom:0;
+    left:0;
+
+}
+.square4{
+    border:3px solid red;
+    height:100px;
+    width:100px;
+    position: absolute;
+    bottom:0;
+    right:0;
+
+}
+.circle1{
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    border: 3px solid green;
+    position:absolute;
+    left:0;
+    top:  300px;
+}
+.circle2{
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    border: 3px solid green;
+    position:absolute;
+    left:350px;
+    top: 0;
+}
+.circle3{
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    border: 3px solid green;
+    position:absolute;
+    right:0;
+    top:  300px;
+}
+.circle4{
+    
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    border: 3px solid green;
+    position:absolute;
+    left:350px;
+    bottom: 0;
+}
